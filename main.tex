@@ -39,7 +39,28 @@
 	citecolor=black,
 	anchorcolor=black
 }
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{}{0pt}{\Huge\bfseries}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{ananym & fux}
+\chead{Everyone is broken inside}
+\rhead{\thepage}
+
+\title{
+  {\large{Dostojewski Larp}}\\
+    {Everyone is broken inside}\\
+    {\bigskip}
+}
+\author{ananym \& fux}
+\date{\today}
+
+
 \begin{document}
+\maketitle 
+\tableofcontents
 \chapter{Einleitung}
 
  \end{document}
