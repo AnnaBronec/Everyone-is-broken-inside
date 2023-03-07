@@ -19,7 +19,7 @@
       <data key="d6">
         <y:UMLClassNode>
           <y:Geometry height="228.95344578259505" width="268.7052734186138" x="147.6851037828575" y="-971.9658526816878"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Fill color="#FF9900" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="21.706016540527344" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="232.41014099121094" x="18.147566213701424" xml:space="preserve" y="28.344114303588867">Fürst Lew Nikolajewitsch Myschkin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="Fürst Myschkin/ Der Idiot" use3DEffect="false">
@@ -40,8 +40,8 @@ bung, sondern durch die der anderen
       <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:UMLClassNode>
-          <y:Geometry height="214.66803464201132" width="268.7052734186138" x="-337.83739052537504" y="-964.8231471113959"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="237.3918319946671" width="268.7052734186138" x="-337.83739052537504" y="-964.8231471113959"/>
+          <y:Fill color="#FF9900" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="21.706016540527344" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="225.5851287841797" x="21.56007231721705" xml:space="preserve" y="28.344114303588867">Nastasja Filippowna Baraschkowa<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="Nastasja" use3DEffect="false">
@@ -50,8 +50,11 @@ bung, sondern durch die der anderen
 "leidgeprüfte Schönheit"
 Bindungsangst, schwanken zwischen
  "Bösem Geist" und "Nächstenliebe"</y:AttributeLabel>
-            <y:MethodLabel xml:space="preserve">Aufagbe: Bekanntgabe Ganja heiraten ja/
- nein</y:MethodLabel>
+            <y:MethodLabel xml:space="preserve">Aufagbe: 
+1. Gesellschaft sprengen, Ganja verhöhnen,
+2. Bekanntgabe Ganja heiraten bei der
+ Ansprache
+3. Auf jeden trotzdem heiraten</y:MethodLabel>
           </y:UML>
         </y:UMLClassNode>
       </data>
@@ -80,8 +83,8 @@ Glaubt Rogoschin hat Infos über "die
       <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:UMLClassNode>
-          <y:Geometry height="123.91365798418656" width="268.7052734186138" x="-82.16424515097367" y="-1174.5492687528522"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="166.76166038568738" width="268.7052734186138" x="-82.16424515097367" y="-1174.5492687528522"/>
+          <y:Fill color="#FF9900" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="21.706016540527344" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="219.65713500976562" x="24.52406920442408" xml:space="preserve" y="28.344114303588867">Parfen Semjonowitsch Rogoschin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="Rogoschin" use3DEffect="false">
@@ -89,7 +92,8 @@ Glaubt Rogoschin hat Infos über "die
 an den Vater, sondern Korb von N. Mit dem
 Erbe seines Vaters, will er es allen zeigen.
 Bietet N. 100 000 </y:AttributeLabel>
-            <y:MethodLabel xml:space="preserve"/>
+            <y:MethodLabel xml:space="preserve">Aufgabe: 1. Treffen mit R-Gruppe und 1.
+ Heiratsantrag (30000R) sprengen</y:MethodLabel>
           </y:UML>
         </y:UMLClassNode>
       </data>
@@ -195,14 +199,18 @@ auch Nastasja wegen Geld von Tozkji und
       <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:UMLClassNode>
-          <y:Geometry height="123.91365798418656" width="268.7052734186138" x="629.611734505768" y="-425.642124572267"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="152.47899291852048" width="268.7052734186138" x="629.611734505768" y="-425.642124572267"/>
+          <y:Fill color="#FF9900" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="21.706016540527344" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="156.65908813476562" x="56.02309264192408" xml:space="preserve" y="28.344114303588867">Nikolai Ardalionowitch <y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="Kolja" use3DEffect="false">
             <y:AttributeLabel xml:space="preserve"/>
             <y:MethodLabel xml:space="preserve">Information: Über Sozilaisten rebelllische
- Gruppe)</y:MethodLabel>
+ Gruppe)
+Aufgabe: 
+- N.F. von im letzten Moment von der
+ Hochzeit wegführen
+- Entscheiden ob er sich fest für die R-Gruppe anschließt</y:MethodLabel>
           </y:UML>
         </y:UMLClassNode>
       </data>
@@ -227,14 +235,17 @@ auch Nastasja wegen Geld von Tozkji und
       <data key="d4" xml:space="preserve"/>
       <data key="d6">
         <y:UMLClassNode>
-          <y:Geometry height="123.91365798418656" width="268.7052734186138" x="1004.0800662360962" y="-425.642124572267"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
+          <y:Geometry height="152.47899291852048" width="268.7052734186138" x="1004.0800662360961" y="-425.642124572267"/>
+          <y:Fill color="#FF9900" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="21.706016540527344" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.26808166503906" x="76.21859587678736" xml:space="preserve" y="28.344114303588867">Ippolit Terentjew<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:UML clipContent="true" constraint="" hasDetailsColor="false" omitDetails="false" stereotype="Ippolit" use3DEffect="false">
             <y:AttributeLabel xml:space="preserve"/>
             <y:MethodLabel xml:space="preserve">Information: Über Sozilaisten rebelllische
- Gruppe</y:MethodLabel>
+ Gruppe
+Aufgabe: Entscheiden ob er sich fest für
+ die R-Gruppe anschließt
+</y:MethodLabel>
           </y:UML>
         </y:UMLClassNode>
       </data>
@@ -335,7 +346,7 @@ auch Nastasja wegen Geld von Tozkji und
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#FF0000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.344114303588867" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.65228271484375" x="-138.4763159210725" xml:space="preserve" y="-40.17205119999733">Mitleid<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5531148183788699" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.344114303588867" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="42.65228271484375" x="-138.4763159210725" xml:space="preserve" y="-37.438819296522865">Mitleid<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5531148183788699" segment="-1"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
